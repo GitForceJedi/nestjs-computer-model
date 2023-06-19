@@ -24,6 +24,8 @@
 
 ## Description
 
+This is a draft project to showcase the workings of NestJS & Dependency Injection. (Modules, Services, Providers, Imports, Exports, etc.)
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
